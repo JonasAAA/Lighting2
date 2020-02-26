@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jonas/Desktop/Game1/Content/disk.png","C:/Users/Jonas/Desktop/Game1/Content/bin/DesktopGL/Content/disk.xnb","TextureProcessor","Texture2DContent",4512,1048661,0.3594806
+"C:/Users/Jonas/Desktop/Game1/Content/ground.jpg","C:/Users/Jonas/Desktop/Game1/Content/bin/DesktopGL/Content/ground.xnb","TextureProcessor","Texture2DContent",300250,4194389,0.4978333
+"C:/Users/Jonas/Desktop/Game1/Content/pixel.png","C:/Users/Jonas/Desktop/Game1/Content/bin/DesktopGL/Content/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.0059563
